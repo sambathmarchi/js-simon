@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.hid{
+    display: none;
+}
+#innerNum{
+    width: 50%;
+    font-size: 80px;
+    margin: auto;
+}
